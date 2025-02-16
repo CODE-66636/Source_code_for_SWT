@@ -1,0 +1,44 @@
+# Ignore NetBeans-specific files
+nbproject/private/
+nbbuild/
+build/
+dist/
+
+# Ignore compiled class files
+*.class
+
+# Ignore JAR/WAR/EAR files
+*.jar
+*.war
+*.ear
+
+# Ignore Maven target directory
+target/
+
+# Ignore logs and temporary files
+*.log
+hs_err_pid*
+*.cache
+*.lock
+*.bak
+*.swp
+*.swo
+*.DS_Store
+
+# Ignore IntelliJ IDEA files (nếu có mở bằng IntelliJ)
+.idea/
+*.iml
+
+# Ignore Eclipse files (nếu có mở bằng Eclipse)
+.classpath
+.project
+.settings/
+
+# Ignore database files (nếu sử dụng H2, SQLite)
+*.db
+*.mv.db
+*.h2.db
+*.sqlite
+
+# Ignore environment files
+.env
