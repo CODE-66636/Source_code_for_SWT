@@ -60,6 +60,9 @@ public class HotelListServlet extends HttpServlet {
                 if (!hotelImages.isEmpty()) {
                     firstImages.put(hotel.getHotel_ID(), hotelImages.get(0).getLink());
                 }
+                else{
+
+                }
             }
 
             // Get feedback data

@@ -1,0 +1,7 @@
+organization=code-66636
+projectKey=CODE-66636_Source_code_for_SWT
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.59784
+dashboardUrl=https://sonarcloud.io/dashboard?id=CODE-66636_Source_code_for_SWT
+ceTaskId=AZUXcFP1MbpHYK52-a0q
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AZUXcFP1MbpHYK52-a0q
