@@ -1,0 +1,112 @@
+
+6dal.FeedbackDAO#getTotalFeedbacks(Ljava/lang/String;)IE
+;F:/GitHub/Source_code_for_SWT/src/java/dal/FeedbackDAO.java) )( "10*!
+3/ /($"
+/ /($
+""*±
+4/ /(œ™
+/ /(#	
+%7int"java.sql.ResultSet#getInt(I)I*6
+
+__unknown_file (
+
+rsjava.sql.ResultSet* 
+
+__unknown_file (22	getInt(I)*
+3*ô
+6- -(-d
+b
+- -(-
+rsjava.sql.ResultSet"__id*6
+
+__unknown_file (
+
+%5java.sql.ResultSetwu
+. .(
+%6boolean"java.sql.ResultSet#next()Z*6
+
+__unknown_file (
+
+rsjava.sql.ResultSet2next()*
+4
+1*Ë
+7- -(¶³
+- -(,
+%5java.sql.ResultSet"=java.sql.PreparedStatement#executeQuery()Ljava/sql/ResultSet;*>
+
+__unknown_file ("
+ 
+psjava.sql.PreparedStatement2executeQuery()*
+6*î
+8+ +(Dt
+r
++ +(D 
+psjava.sql.PreparedStatement"__id*>
+
+__unknown_file ("
+ 
+%1java.sql.PreparedStatementk
+i
+, ,((
+%2java.lang.String"__concat*
+, ,(
+%*(
+," ,((
+
+searchjava.lang.Stringg
+e
+, ,(.
+%3java.lang.String"__concat*$
+, ,((
+
+%2java.lang.String*
+,+ ,(.
+%Š
+, ,(/
+
+%4void":java.sql.PreparedStatement#setString(ILjava/lang/String;)V*>
+
+__unknown_file ("
+ 
+psjava.sql.PreparedStatement* 
+
+__unknown_file (2*4
+
+__unknown_file (
+
+%3java.lang.String2setString(ILjava/lang/String;)*
+7* 
+9+$ +(.n
+l
++$ +(.
+%0java.sql.Connection"__id*?
+
+__unknown_file (#*!
+dal.FeedbackDAO"
+
+connection›˜
++$ +(D 
+%1java.sql.PreparedStatement"Tjava.sql.Connection#prepareStatement(Ljava/lang/String;)Ljava/sql/PreparedStatement;*7
+
+__unknown_file (
+
+%0java.sql.Connection*5
+
+__unknown_file (
+
+sqljava.lang.String2$prepareStatement(Ljava/lang/String;)*
+8*”
+10* *(I
+}
+* *(J
+sqljava.lang.String"__id*R
+
+__unknown_file (64
+2SELECT COUNT(*) FROM Feedback WHERE content LIKE ?*
+9*!
+14 4("
+4 4(
+"":&
+)! )(.
+searchjava.lang.StringB
+dal.FeedbackDAOHX

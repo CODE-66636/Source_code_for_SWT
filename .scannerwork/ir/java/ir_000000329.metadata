@@ -1,0 +1,8 @@
+dal.DAO#main([Ljava/lang/String;)V
+false
+8f315555df26b91a5eefdd7226112254
+dal.DAO#<init>()V
+dal.DAO#instance-init#
+==
+D_getAccountsList dal.DAO#D_getAccountsList()Ljava/util/Map;
+println java.io.PrintStream#println(Ljava/lang/String;)V

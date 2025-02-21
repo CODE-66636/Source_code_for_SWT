@@ -1,0 +1,46 @@
+
+Fmodel.GoogleLogin#getUserInfo(Ljava/lang/String;)Lmodel/GoogleAccount;G
+=F:/GitHub/Source_code_for_SWT/src/java/model/GoogleLogin.java$  $(+"1*Â
+1% %(à
+Ö
+% %(9
+%0java.lang.String"__id*[
+
+__unknown_file (?=
+;https://www.googleapis.com/oauth2/v1/userinfo?access_token=Ñ
+Å
+% %(G
+%1java.lang.String"__concat*$
+% %(9
+
+%0java.lang.String*-
+%< %(G!
+
+accessTokenjava.lang.Stringb
+`
+% %(H
+linkjava.lang.String"__id*4
+
+__unknown_file (
+
+%1java.lang.StringT
+R
+& &(Q
+responsejava.lang.String"__id*"
+
+__unknown_file (
+""Y
+W
+' '(V!
+
+googlePojomodel.GoogleAccount"__id*"
+
+__unknown_file (
+"""/
+( ((#
+!
+
+googlePojomodel.GoogleAccount:+
+$, $(D
+accessTokenjava.lang.StringB"
+model.GoogleLoginH

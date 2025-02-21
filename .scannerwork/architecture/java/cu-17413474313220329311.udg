@@ -1,0 +1,248 @@
+
+1.0CODE-66636_Source_code_for_SWTJavaFrontend"1740100744646*java2.B‚
+0
++src/java/controller/FeedbackController.java2
+
+package4
+
+
+controller5
+"
+controller.FeedbackController7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+FeedbackController12
+)
+#Recovered#typeBindingLHttpServlet;014
+
+unknown15
+
+extends16
+
+
+WebServlet18
+
+annotated by19
+(
+"Recovered#typeBindingLWebServlet;021
+
+
+uses22
+-
+'controller.FeedbackController.PAGE_SIZE24
+
+field25
+
+private26
+
+	PAGE_SIZE27
+/
+)controller.FeedbackController.feedbackDAO29
+
+feedbackDAO30
+
+dal.FeedbackDAO32
+
+is type33
+
+calls34
+U
+Ocontroller.FeedbackController#doGet(LHttpServletRequest;LHttpServletResponse;)V36
+
+method37
+
+	protected38
+
+doGet39
+0
+*Recovered#typeBindingLHttpServletRequest;041
+
+	has param42
+1
++Recovered#typeBindingLHttpServletResponse;044
+
+ServletException46
+
+
+references47
+<
+6dal.FeedbackDAO#getTotalFeedbacks(Ljava/lang/String;)I49
+
+model.Feedback51
+H
+Bdal.FeedbackDAO#getFeedbacks(IILjava/lang/String;)Ljava/util/List;53J
+
+1
+12Z
+
+3	
+354jÉ
+
+48
+484915
+9
+64
+678 *
+1 ( :3B
+	
+9
+10
+
+
+11
+12
+@
+35:
+353637 *
+1 (26:3B
+	
+9
+38
+
+
+11
+39
+
+40
+404115
+
+13
+131415
+@
+23:
+232425 *
+1 (26:3B
+	
+9
+26
+
+
+11
+27
+
+45
+454615
+
+17
+171815
+
+20
+202115
+
+43
+434415
+
+31
+313215
+
+52
+525315
+@
+28:
+282925 *
+1 (26:3B
+	
+9
+26
+
+
+11
+30
+
+50
+505115r‰
+
+61316*
+1) (4
+
+61719*
+1 (
+
+62022*
+1 (
+
+6622*
+1 ( 
+
+61322*
+1) (4
+
+283133*
+1 (
+
+283122*
+1 (
+
+283122*
+1 ($
+
+283134*
+1+ (6
+
+354042*
+1 (,
+
+354342*
+16 (I
+
+354033*
+1- (4
+
+354022*
+1 (,
+
+354333*
+1J (R
+
+354322*
+16 (I
+
+354522*
+1 ($
+
+353147*
+1) )()
+
+354834*
+1)* )(;
+
+352847*
+1) )()
+
+353122*
+1) )()
+
+352847*
+1) )()
+
+352347*
+1*D *(M
+
+355022*
+1+ +(
+
+353147*
+1+$ +(/
+
+355234*
+1+0 +(<
+
+352847*
+1+$ +(/
+
+353122*
+1+$ +(/
+
+352847*
+1+$ +(/
+
+352347*
+1+C +(L

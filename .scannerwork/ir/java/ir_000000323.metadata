@@ -1,0 +1,9 @@
+controller.LoginServlet#doPost(LHttpServletRequest;LHttpServletResponse;)V
+false
+f31fdd771ec56020d1d6f4ebfc852f98
+dal.DAO#<init>()V
+dal.DAO#instance-init#
+java.lang.String#equals(Ljava/lang/Object;)Z
+==
+!unknownMethod! !unknownMethod!
+getAccount dal.DAO#getAccount(Ljava/lang/String;Ljava/lang/String;)Lmodel/Account;

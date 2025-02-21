@@ -1,0 +1,14 @@
+controller.LoginWithGoogleServlet#processRequest(LHttpServletRequest;LHttpServletResponse;)V
+false
+d3744e7f9ba2354795313fa87ac80baa
+dal.DAO#<init>()V
+dal.DAO#instance-init#
+model.GoogleLogin#<init>()V
+model.GoogleLogin#getToken(Ljava/lang/String;)Ljava/lang/String;
+model.GoogleLogin#getUserInfo(Ljava/lang/String;)Lmodel/GoogleAccount;
+model.GoogleLogin#instance-init#
+==
+!unknownMethod! !unknownMethod!
+getEmail model.GoogleAccount#getEmail()Ljava/lang/String;
+isEmailExist dal.DAO#isEmailExist(Ljava/lang/String;)Z
+println java.io.PrintStream#println(Ljava/lang/Object;)V

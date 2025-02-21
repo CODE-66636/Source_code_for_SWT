@@ -1,0 +1,5 @@
+controller.LoginWithGoogleServlet#doGet(LHttpServletRequest;LHttpServletResponse;)V
+false
+630ce3cbab4e8f217bd9f8cf7e65d964
+==
+processRequest controller.LoginWithGoogleServlet#processRequest(LHttpServletRequest;LHttpServletResponse;)V

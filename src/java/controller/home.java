@@ -43,8 +43,7 @@ public class home extends HttpServlet {
     throws ServletException, IOException {
         response.setContentType("text/html;charset=UTF-8");
         try (PrintWriter out = response.getWriter()) {
-            /* TODO output your page here. You may use following sample code. */
-            HttpSession session = request.getSession();
+
             
             DAO dao = new DAO();
             Map<Integer,Hotel> listHotels = dao.D_getHotelsList();

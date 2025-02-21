@@ -1,0 +1,62 @@
+
+1.0CODE-66636_Source_code_for_SWTJavaFrontend"1740100738686*java2.B·
++
+&src/java/controller/Authorization.java2
+
+package4
+
+
+controller5
+
+controller.Authorization7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+Authorization12
+
+
+uses13
+G
+Acontroller.Authorization#checkAuthorization(ILjava/lang/String;)Z15
+
+method16
+
+checkAuthorization17J
+
+1
+12Z
+
+3	
+354j}
+@
+14:
+141516 *
+1 (26:3B
+	
+9
+10
+
+
+11
+17
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12r
+
+6613*
+1 (

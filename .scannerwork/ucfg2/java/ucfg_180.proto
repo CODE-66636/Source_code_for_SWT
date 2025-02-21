@@ -1,0 +1,52 @@
+
+@model.GoogleLogin#getToken(Ljava/lang/String;)Ljava/lang/String;G
+=F:/GitHub/Source_code_for_SWT/src/java/model/GoogleLogin.java (!"1*Ë
+1 (!v
+t
+' (F
+%0java.lang.String"__id*J
+
+__unknown_file (.,
+*https://accounts.google.com/o/oauth2/token•
+’
+* (D
+%1java.lang.String"__id*h
+
+__unknown_file (LJ
+H707523446199-g07ubdoc2q304nb61i4qbn4kn687a58i.apps.googleusercontent.como
+m
+. (L
+%2java.lang.String"__id*C
+
+__unknown_file ('%
+#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}
+{
+- (J
+%3java.lang.String"__id*Q
+
+__unknown_file (53
+1http://localhost:8080/Project__SWP391/loginGoogle^
+\
++ (F
+%4java.lang.String"__id*2
+
+__unknown_file (
+authorization_codeT
+R
+ (/
+responsejava.lang.String"__id*"
+
+__unknown_file (
+""W
+U
+   (V
+accessTokenjava.lang.String"__id*"
+
+__unknown_file (
+"""-
+! !(!
+
+accessTokenjava.lang.String:$
+" (-
+codejava.lang.StringB"
+model.GoogleLoginH

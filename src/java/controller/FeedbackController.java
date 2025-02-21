@@ -35,6 +35,7 @@ public class FeedbackController extends HttpServlet {
         try {
             page = Integer.parseInt(request.getParameter("page"));
         } catch (NumberFormatException ignored) {
+            //Do not thing
         }
 
         int totalFeedbacks = feedbackDAO.getTotalFeedbacks(search);

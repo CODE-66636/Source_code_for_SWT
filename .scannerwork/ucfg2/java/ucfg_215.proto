@@ -1,0 +1,15 @@
+
++model.Account#getStatus()Ljava/lang/String;C
+9F:/GitHub/Source_code_for_SWT/src/java/model/Account.javaQ Q("1*š
+1R R(e
+c
+R R(
+%0java.lang.String"__id*9
+
+__unknown_file (*
+model.Account"
+status"$
+R R(
+
+%0java.lang.StringB
+model.AccountH

@@ -1,0 +1,95 @@
+
+1.0CODE-66636_Source_code_for_SWTJavaFrontend"1740100743482*java2.B◊
+-
+(src/java/Validation/CheckValidation.java2
+
+package4
+
+
+Validation5
+
+Validation.CheckValidation7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+CheckValidation12
+
+
+uses13
+*
+$Validation.CheckValidation#<init>()V15
+
+method16
+
+calls17
+G
+AValidation.CheckValidation#D_validationInt(Ljava/lang/String;II)I19
+
+D_validationInt20
+H
+BValidation.CheckValidation#isValidPhoneNumber(Ljava/lang/String;)Z22
+
+isValidPhoneNumber23J
+
+1
+12Z
+
+3	
+354jÅ
+@
+21:
+212216 *
+1 (26:3B
+	
+9
+10
+
+
+11
+23
+@
+14:
+141516 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+18:
+181916 *
+1 (26:3B
+	
+9
+10
+
+
+11
+20r3
+
+6613*
+1 (
+
+14617*
+1 (

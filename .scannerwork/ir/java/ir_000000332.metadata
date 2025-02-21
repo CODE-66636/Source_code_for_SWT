@@ -1,0 +1,5 @@
+controller.Controller#CountRoomOfHotel(Ljava/util/List;)I
+false
+654aa880b40205b63dab8776683c66e0
+==
+getQuantity model.Room#getQuantity()I

@@ -1,0 +1,136 @@
+
+1.0CODE-66636_Source_code_for_SWTJavaFrontend"1740100744473*java2.Bÿ
+%
+ src/java/constant/Iconstant.java2
+
+package4
+
+constant5
+
+constant.Iconstant7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+	Iconstant12
+
+
+uses13
+)
+#constant.Iconstant.GOOGLE_CLIENT_ID15
+
+field16
+
+GOOGLE_CLIENT_ID17
+-
+'constant.Iconstant.GOOGLE_CLIENT_SECRET19
+
+GOOGLE_CLIENT_SECRET20
+,
+&constant.Iconstant.GOOGLE_REDIRECT_URI22
+
+GOOGLE_REDIRECT_URI23
+*
+$constant.Iconstant.GOOGLE_GRANT_TYPE25
+
+GOOGLE_GRANT_TYPE26
+.
+(constant.Iconstant.GOOGLE_LINK_GET_TOKEN28
+
+GOOGLE_LINK_GET_TOKEN29
+2
+,constant.Iconstant.GOOGLE_LINK_GET_USER_INFO31
+
+GOOGLE_LINK_GET_USER_INFO32J
+
+1
+12Z
+
+3	
+354jÇ
+@
+27:
+272816 *
+1 (26:3B
+	
+9
+10
+
+
+11
+29
+@
+18:
+181916 *
+1 (26:3B
+	
+9
+10
+
+
+11
+20
+@
+21:
+212216 *
+1 (26:3B
+	
+9
+10
+
+
+11
+23
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+14:
+141516 *
+1 (26:3B
+	
+9
+10
+
+
+11
+17
+@
+30:
+303116 *
+1 (26:3B
+	
+9
+10
+
+
+11
+32
+@
+24:
+242516 *
+1 (26:3B
+	
+9
+10
+
+
+11
+26r
+
+6613*
+1 (

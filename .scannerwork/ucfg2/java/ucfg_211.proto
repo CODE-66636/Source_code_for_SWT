@@ -1,0 +1,15 @@
+
+3model.Account#getRegistration_date()Ljava/sql/Date;C
+9F:/GitHub/Source_code_for_SWT/src/java/model/Account.java@ @($"1*Ÿ
+1A A( m
+k
+A A( 
+%0java.sql.Date"__id*D
+
+__unknown_file ((*&
+model.Account"
+registration_date"!
+A A(!
+
+%0java.sql.DateB
+model.AccountH

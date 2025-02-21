@@ -1,0 +1,93 @@
+
+1.0CODE-66636_Source_code_for_SWTJavaFrontend"1740100744868*java2.BÁ
+ 
+src/java/dal/DBContext.java2
+
+package4
+
+dal5
+
+dal.DBContext7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+	DBContext12
+
+
+uses13
+
+dal.DBContext.connection15
+
+field16
+
+	protected17
+
+
+connection18
+
+dal.DBContext#<init>()V20
+
+method21
+
+calls22
+
+
+references23J
+
+1
+12Z
+
+3	
+354j¿
+@
+19:
+192021 *
+1 (26:3B
+	
+9
+10
+
+
+11
+12
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+@
+14:
+141516 *
+1 (26:3B
+	
+9
+17
+
+
+11
+18rh
+
+6613*
+1 (
+
+19622*
+1 (
+
+191423*
+1! !(
+
+19613*
+1# #('

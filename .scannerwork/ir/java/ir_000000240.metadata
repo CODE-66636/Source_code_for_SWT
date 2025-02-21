@@ -1,0 +1,15 @@
+model.Profile#capitalizeName(Ljava/lang/String;)Ljava/lang/String;
+false
+99bec1f8b8e9a9e662f1f085e5a41bf5
+java.lang.Character#toUpperCase(C)C
+java.lang.String#charAt(I)C
+java.lang.String#isEmpty()Z
+java.lang.String#split(Ljava/lang/String;)[Ljava/lang/String;
+java.lang.String#substring(I)Ljava/lang/String;
+java.lang.String#toLowerCase()Ljava/lang/String;
+java.lang.String#trim()Ljava/lang/String;
+java.lang.StringBuilder#<init>()V
+java.lang.StringBuilder#append(C)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#append(Ljava/lang/String;)Ljava/lang/StringBuilder;
+java.lang.StringBuilder#instance-init#
+java.lang.StringBuilder#toString()Ljava/lang/String;

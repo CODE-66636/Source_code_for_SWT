@@ -23,7 +23,6 @@ public class Controller {
         return sum;
     }
     public List<Integer> D_getFeedbackListByStarRate(int sr, Map<Integer, D_Feedback> listFeedBack){
-        Map<Integer, D_Feedback>  list = listFeedBack;
         List<Integer> result = new ArrayList<>();
         if(sr==0){
             result = new ArrayList<>(listFeedBack.keySet());

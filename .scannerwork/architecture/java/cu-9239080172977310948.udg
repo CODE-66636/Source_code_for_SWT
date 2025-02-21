@@ -1,0 +1,202 @@
+
+1.0CODE-66636_Source_code_for_SWTJavaFrontend"1740100743831*java2.BÍ
+$
+src/java/model/GoogleLogin.java2
+
+package4
+
+
+model5
+
+model.GoogleLogin7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+GoogleLogin12
+
+
+uses13
+F
+@model.GoogleLogin#getToken(Ljava/lang/String;)Ljava/lang/String;15
+
+method16
+
+getToken17
+
+ClientProtocolException19
+
+unknown20
+
+constant.Iconstant22
+.
+(constant.Iconstant.GOOGLE_LINK_GET_TOKEN24
+
+
+references25
+)
+#constant.Iconstant.GOOGLE_CLIENT_ID27
+-
+'constant.Iconstant.GOOGLE_CLIENT_SECRET29
+,
+&constant.Iconstant.GOOGLE_REDIRECT_URI31
+*
+$constant.Iconstant.GOOGLE_GRANT_TYPE33
+(
+"Recovered#typeBindingLJsonObject;035
+
+is type36
+L
+Fmodel.GoogleLogin#getUserInfo(Ljava/lang/String;)Lmodel/GoogleAccount;38
+
+getUserInfo39
+
+model.GoogleAccount41
+
+returns42
+2
+,constant.Iconstant.GOOGLE_LINK_GET_USER_INFO44J
+
+1
+12Z
+
+3	
+354j‡
+
+28
+282920
+@
+37:
+373816 *
+1$ $(26:3B
+	
+9
+10
+
+
+11
+39
+@
+14:
+141516 *
+1 (26:3B
+	
+9
+10
+
+
+11
+17
+
+30
+303120
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+
+21
+212220
+
+26
+262720
+
+43
+434420
+
+18
+181920
+
+23
+232420
+
+34
+343520
+
+40
+404120
+
+32
+323320rë
+
+6613*
+1 (
+
+141813*
+17 (N
+
+142113*
+1( (1
+
+142325*
+12 (G
+
+142113*
+1+ (4
+
+142625*
+15 (E
+
+142113*
+1/ (8
+
+142825*
+19 (M
+
+142113*
+1. (7
+
+143025*
+18 (K
+
+142113*
+1, (5
+
+143225*
+16 (G
+
+143436*
+1 (
+
+143413*
+1	 (
+
+143413*
+19 (C
+
+374042*
+1$ $( 
+
+374013*
+1$ $( 
+
+371813*
+1$N $(e
+
+372113*
+1% %( 
+
+374325*
+1%! %(:
+
+374036*
+1' '(!
+
+374013*
+1'	 '(
+
+374013*
+1'B '(O

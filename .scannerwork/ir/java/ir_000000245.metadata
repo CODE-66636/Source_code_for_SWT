@@ -1,0 +1,28 @@
+controller.RegisterServlet#doPost(LHttpServletRequest;LHttpServletResponse;)V
+false
+0a97336aff9e7d9a7ac5ff46e064262e
+Validation.CheckValidation#<init>()V
+Validation.CheckValidation#instance-init#
+dal.DAO#<init>()V
+dal.DAO#instance-init#
+java.lang.System#currentTimeMillis()J
+java.sql.Date#valueOf(Ljava/time/LocalDate;)Ljava/sql/Date;
+java.sql.Timestamp#<init>(J)V
+java.sql.Timestamp#instance-init#
+java.time.LocalDate#now()Ljava/time/LocalDate;
+model.Account#<init>(ILjava/lang/String;Ljava/lang/String;Ljava/sql/Date;Ljava/sql/Timestamp;Ljava/lang/String;Ljava/lang/String;I)V
+model.Account#instance-init#
+model.Profile#<init>(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;II)V
+model.Profile#instance-init#
+==
+!unknownMethod! !unknownMethod!
+addProfile dal.DAO#addProfile(Lmodel/Profile;)V
+getAccount dal.DAO#getAccount(Ljava/lang/String;Ljava/lang/String;)Lmodel/Account;
+getAccount_ID model.Account#getAccount_ID()I
+getEmail model.Account#getEmail()Ljava/lang/String;
+getPassword model.Account#getPassword()Ljava/lang/String;
+getUsername model.Account#getUsername()Ljava/lang/String;
+isEmailExist dal.DAO#isEmailExist(Ljava/lang/String;)Z
+isUserNameExist dal.DAO#isUserNameExist(Ljava/lang/String;)Z
+isValidPhoneNumber Validation.CheckValidation#isValidPhoneNumber(Ljava/lang/String;)Z
+registration dal.DAO#registration(Lmodel/Account;)V

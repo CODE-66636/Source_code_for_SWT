@@ -1,0 +1,363 @@
+
+1.0CODE-66636_Source_code_for_SWTJavaFrontend"1740100744307*java2.B–
+
+&
+!src/java/controller/viewBlog.java2
+
+package4
+
+
+controller5
+
+controller.viewBlog7
+
+
+class8
+
+access9
+
+public10
+
+simple name11
+
+viewBlog12
+)
+#Recovered#typeBindingLHttpServlet;014
+
+unknown15
+
+extends16
+
+
+WebServlet18
+
+annotated by19
+(
+"Recovered#typeBindingLWebServlet;021
+
+
+uses22
+T
+Ncontroller.viewBlog#processRequest(LHttpServletRequest;LHttpServletResponse;)V24
+
+method25
+
+	protected26
+
+processRequest27
+0
+*Recovered#typeBindingLHttpServletRequest;029
+
+	has param30
+1
++Recovered#typeBindingLHttpServletResponse;032
+
+is type33
+
+ServletException35
+)
+#Recovered#typeBindingLHttpSession;037
+ 
+Validation.CheckValidation39
+
+calls40
+
+model.Account42
+
+
+references43
+!
+model.Account#getRole_ID()I45
+
+dal.DAO47
+
+model.Hotel49
+.
+(dal.DAO#D_getHotelsList()Ljava/util/Map;51
+G
+AValidation.CheckValidation#D_validationInt(Ljava/lang/String;II)I53
+
+
+model.Blog55
+A
+;dal.DAO#D_getBlogsByType(Ljava/lang/String;)Ljava/util/Map;57
+K
+Econtroller.viewBlog#doGet(LHttpServletRequest;LHttpServletResponse;)V59
+
+doGet60
+L
+Fcontroller.viewBlog#doPost(LHttpServletRequest;LHttpServletResponse;)V62
+
+doPost63
+<
+6controller.viewBlog#getServletInfo()Ljava/lang/String;65
+
+getServletInfo66J
+
+1
+12Z
+
+3	
+354jƒ
+
+36
+363715
+@
+58:
+585925 *
+1d d(26:3B
+	
+9
+26
+
+
+11
+60
+
+41
+414215
+
+54
+545515
+
+38
+383915
+
+28
+282915
+
+46
+464715
+
+13
+131415
+
+52
+525315
+@
+23:
+232425 *
+1* *(26:3B
+	
+9
+26
+
+
+11
+27
+
+34
+343515
+@
+64:
+646525 *
+1} }(26:3B
+	
+9
+10
+
+
+11
+66
+9
+64
+678 *
+1 (:3B
+	
+9
+10
+
+
+11
+12
+
+17
+171815
+
+20
+202115
+
+31
+313215
+
+56
+565715
+@
+61:
+616225 *
+1r r(26:3B
+	
+9
+26
+
+
+11
+63
+
+44
+444515
+
+48
+484915
+
+50
+505115r
+
+61316*
+1 (*
+
+61719*
+1 (
+
+62022*
+1 (
+
+6622*
+1 (
+
+61322*
+1 (*
+
+232830*
+1*# *(5
+
+233130*
+1*? *(R
+
+232833*
+1*6 *(=
+
+232822*
+1*# *(5
+
+233133*
+1*S *([
+
+233122*
+1*? *(R
+
+233422*
+1+ +($
+
+233633*
+1/ /( 
+
+233622*
+1/ /(
+
+233833*
+10 0('
+
+233822*
+10 0(
+
+233840*
+10. 0(=
+
+234133*
+12 2(
+
+234122*
+12 2(
+
+234122*
+12  2('
+
+234143*
+14 4("
+
+234440*
+14# 4(-
+
+234633*
+1; ;(
+
+234622*
+1; ;(
+
+234640*
+1; ;(
+
+234822*
+1< <(
+
+234643*
+1<. <(1
+
+235040*
+1<2 <(A
+
+233843*
+1G G( 
+
+235240*
+1G! G(0
+
+235422*
+1K K(
+
+234643*
+1K, K(/
+
+235640*
+1K0 K(@
+
+233843*
+1M M(
+
+235240*
+1M M(+
+
+582830*
+1e e(,
+
+583130*
+1e6 e(I
+
+582833*
+1e- e(4
+
+582822*
+1e e(,
+
+583133*
+1eJ e(R
+
+583122*
+1e6 e(I
+
+583422*
+1f f($
+
+58643*
+1g	 g(
+
+582340*
+1g	 g(
+
+612830*
+1s s(-
+
+613130*
+1s7 s(J
+
+612833*
+1s. s(5
+
+612822*
+1s s(-
+
+613133*
+1sK s(S
+
+613122*
+1s7 s(J
+
+613422*
+1t t($
+
+61643*
+1u	 u(
+
+612340*
+1u	 u(
